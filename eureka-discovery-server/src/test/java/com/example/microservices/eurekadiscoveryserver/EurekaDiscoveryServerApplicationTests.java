@@ -1,4 +1,4 @@
-package com.example.spring.microservices.springcloudconfigserver;
+package com.example.microservices.eurekadiscoveryserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class SpringCloudConfigServerApplicationTests {
+public class EurekaDiscoveryServerApplicationTests {
 
 	@Test
 	public void contextLoads() {
